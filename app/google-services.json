@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714790945696",
+    "project_id": "secondmapsandnavigation",
+    "storage_bucket": "secondmapsandnavigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714790945696:android:c9927c5cbe9381d8fbdac5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714790945696-k0g1kjh9hbfmerc7vhmn9pakitrf33u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYri8q52Qpou7zQ4k74S9ZQjEamMHTmj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714790945696-k0g1kjh9hbfmerc7vhmn9pakitrf33u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
